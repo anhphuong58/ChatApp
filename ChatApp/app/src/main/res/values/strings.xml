@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Ltdd Project</string>
+    <string name="vertu_studio_chat_app">Vertu Studio Chat App</string>
+    <string name="welcome">Welcome !</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="create_your_account">Create Your Account !</string>
+    <string name="add_image">Add Image</string>
+    <string name="name">Name</string>
+    <string name="select_user">Select User</string>
+    <string name="type_a_messgae">Type a messgae</string>
+</resources>
